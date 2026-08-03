@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm WahidiDev
 
-<!--
-**wahididev/WahidiDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 💻 Web Developer | Open Source Enthusiast
+- 🌱 Currently learning: Full Stack Development
+- 🎯 Goal: Building useful tools for the community
+- ⚡ Fun fact: I turn coffee into code ☕→💻
 
-Here are some ideas to get you started:
+## 🔧 Technologies I Work With
+- HTML • CSS • JavaScript
+- React • Node.js • Git
+- VS Code • Chrome DevTools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![WahidiDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=WahidiDev&show_icons=true&theme=radical)
+
+## 📫 Connect With Me
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/WahidiDev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/WahidiDev)
