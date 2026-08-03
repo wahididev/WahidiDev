@@ -44,15 +44,15 @@ An open-source browser utility tool for live-editing, debugging, and viewing HTM
 * 📱 **Mobile Responsive** & browser-first UI
 * 🔒 **Privacy-First** — all processing happens locally in your browser
 
-👉 **Live Demo:** [wahididev.pages.dev](https://wahididev.pages.dev)
+👉 **Live Demo:** [html-viewer](https://wahididev.pages.dev/html-viewer)
 
 ---
 
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wahididev&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wahididev&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=wahididev&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wahididev&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
