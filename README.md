@@ -44,7 +44,7 @@ An open-source browser utility tool for live-editing, debugging, and viewing HTM
 * 📱 **Mobile Responsive** & browser-first UI
 * 🔒 **Privacy-First** — all processing happens locally in your browser
 
-👉 **Live Demo:** [html-viewer](https://wahididev.pages.dev/html-viewer)
+👉 **Live Demo:** [html-viewer](https://wahididev.github.io/html-viewer/)
 
 ---
 
